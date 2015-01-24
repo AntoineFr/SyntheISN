@@ -57,7 +57,7 @@ void setup(){
 
 void draw(){
   textSize(42);
-  text("THE SYNTHÉ", 50, 65); 
+  text("THE SYNTHÉ", 50, 65);
   fill(0, 0, 255);
 }
 
